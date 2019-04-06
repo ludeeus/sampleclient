@@ -2,7 +2,6 @@
 
 <!-- badges start -->
 
-[![Build Status][travisbadge]][travislink]
 [![PyPI version][pypibadge]][pypilink]
 [![Maintained][Maintained]](#)
 [![BuyMeCoffee][buymecoffeebadge]][buymecoffeelink]
@@ -24,7 +23,5 @@ python3 -m pip install -U sampleclient
 [maintained]: https://img.shields.io/maintenance/yes/2019.svg
 [pypilink]: https://pypi.org/project/sampleclient/
 [pypibadge]: https://badge.fury.io/py/sampleclient.svg
-[travislink]: https://travis-ci.com/ludeeus/sampleclient
-[travisbadge]: https://travis-ci.com/ludeeus/sampleclient.svg?branch=master
 
 <!-- links end -->
