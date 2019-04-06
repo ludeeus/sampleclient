@@ -19,5 +19,5 @@ action "Black Code Formatter" {
 
 action "Pytest" {
   uses = "cclauss/GitHub-Action-for-pytest@0.0.2"
-  args = "pytest"
+  args = "python -m pytest"
 }
