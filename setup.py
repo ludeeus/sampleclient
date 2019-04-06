@@ -6,7 +6,7 @@ with open("README.md", "r") as fh:
     README = fh.read()
 setup(
     name="sampleclient",
-    version='0.0.1',
+    version="0.0.1",
     author="Joakim Sorensen",
     author_email="ludeeus@gmail.com",
     description="Sample Client lib.",
