@@ -9,7 +9,7 @@
 
 <!-- badges end -->
 
-_%DESCRIPTION%._
+_Sample Client lib._
 
 ## Install sampleclient
 
