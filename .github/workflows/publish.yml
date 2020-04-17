@@ -19,9 +19,9 @@ jobs:
       - name: Install dependencies
         run: python -m pip install setuptools wheel twine black pytest
 
-      - run: pytthon3 -m black .
+      - run: python3 -m black .
 
-      - run: pytthon3 -m pytest
+      - run: python3 -m pytest
 
       - uses: olegtarasov/get-tag@v2
         name: Set tag envronment variable
